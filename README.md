@@ -5,6 +5,8 @@ PC版AmongUsのModのインストールやModの切り替えをGUI操作で行�
 
 ![ロゴ](https://raw.githubusercontent.com/393mats/amongus-mod-handler/master/src/assets/icon.png "AmongUs Mod Handler")
 
+![画面](https://raw.githubusercontent.com/393mats/amongus-mod-handler/master/src/assets/window_demo.png "画面プレビュー")
+
 ### 対応Mod
 
 - [The Other Roles]](https://github.com/Eisbison/TheOtherRoles)
