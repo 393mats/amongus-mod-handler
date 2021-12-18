@@ -3,6 +3,8 @@
 PC版AmongUsのModのインストールやModの切り替えをGUI操作で行えるツール。
 今後種類や追加が行えるように改修する予定。
 
+![ロゴ](https://raw.githubusercontent.com/393mats/amongus-mod-handler/master/src/assets/icon.png "AmongUs Mod Handler")
+
 ### 対応Mod
 
 - [The Other Roles]](https://github.com/Eisbison/TheOtherRoles)
