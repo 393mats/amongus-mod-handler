@@ -9,8 +9,8 @@ PC版AmongUsのModのインストールやModの切り替えをGUI操作で行�
 
 ### 対応Mod
 
-- [The Other Roles]](https://github.com/Eisbison/TheOtherRoles)
-- [The Other Roles GM Edition]](https://github.com/yukinogatari/TheOtherRoles-GM)
+- The Other Roles https://github.com/Eisbison/TheOtherRoles
+- The Other Roles GM Edition https://github.com/yukinogatari/TheOtherRoles-GM
 
 ## Project setup
 ```

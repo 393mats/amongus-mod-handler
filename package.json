@@ -1,7 +1,13 @@
 {
   "name": "au-mod-handler",
-  "version": "0.1.0",
+  "productName": "AmongUS-ModHandler",
+  "version": "1.0.0",
   "private": true,
+  "author": {
+		"name": "fe8works",
+		"email": "tetsuya@fe8works.com",
+		"url": "https://github.com/393mats/amongus-mod-handler"
+	},
   "scripts": {
     "dev": "vue-cli-service electron:serve",
     "serve": "vue-cli-service serve",
@@ -23,6 +29,7 @@
     "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
+    "electron-builder": "^22.14.5",
     "fs-extra": "^10.0.0",
     "properties-reader": "^2.2.0",
     "rage-edit": "^1.2.0",
